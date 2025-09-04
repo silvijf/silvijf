@@ -7,4 +7,5 @@
 * 📝 And I'm currently working on extensions (They will not be available in the Chrome Web Store
       or other professional extension stores)
       and [my site](https://silvijf.github.io).
+      I also work sometimes on a Discord Bot.
 * 😄 Pronouns: he/him
