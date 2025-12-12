@@ -4,6 +4,6 @@
   * 🐶 Beertje
   * 🐶 Lucy
 * 🌱 I’m currently learning node.js
-* 📝 And I'm currently working on [Multiplayer Platformer Game](https://fainer.nl.eu.org) (it's not online often)
+* 📝 And I'm currently working on [FainerMessages](https://fainer.nl.eu.org/fainermessages.html)
       and [my site](https://silvijf.github.io).
 * 😄 Pronouns: he/him
