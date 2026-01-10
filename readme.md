@@ -3,7 +3,7 @@
 * 🐕 Pets: 2 dogs
   * 🐶 Beertje
   * 🐶 Lucy
-* 🌱 I’m currently learning node.js
+* 🌱 I’m currently learning jQuery
 * 📝 And I'm currently working on [FainerMessages](https://fainer.nl.eu.org/fainermessages.html)
       and [my site](https://silvijf.github.io).
 * 😄 Pronouns: he/him
