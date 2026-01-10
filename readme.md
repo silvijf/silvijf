@@ -4,6 +4,5 @@
   * 🐶 Beertje
   * 🐶 Lucy
 * 🌱 I’m currently learning jQuery
-* 📝 And I'm currently working on [FainerMessages](https://fainer.nl.eu.org/fainermessages.html)
-      and [my site](https://silvijf.github.io).
+* 📝 And I'm currently working on [About me](https://silvijf.github.io/about)
 * 😄 Pronouns: he/him
